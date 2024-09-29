@@ -1,4 +1,4 @@
-#![Coolbooy's Logo](https://i.imgur.com/Coolbooy-logo.png)
+#![Coolbooy's Logo](https://i.imgur.com/VPf524i.jpeg)
 
 ## 👋 Hello, I'm IM-COOL-HACKER-BOOY
 
