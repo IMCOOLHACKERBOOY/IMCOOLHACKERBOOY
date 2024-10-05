@@ -1,6 +1,6 @@
 ![Coolbooy's Logo](https://i.imgur.com/VPf524i.jpeg)
 
-## 👋 Hello, I'm IM-COOL-HACKER-BOOY
+## 👋 Hello, IM-COOL-HACKER-BOOY
 
 I'm a passionate software developer specializing in web development and cloud computing.
 
